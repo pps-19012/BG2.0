@@ -1,0 +1,5 @@
+errors in game:
+1. pop-up questions function independently thus on glicth they intensify the glitch 
+and ask the questions of following levels.
+2. level is not getting active on clicking continue button after
+zombie show (i.e. zombie rotation and text diplay)
